@@ -1,1 +1,6 @@
-
+{
+  "autorizacao": true,
+  "contato": "juan.cardosocontato1@gmail.com",
+  "disponibilizado": "Termos de uso: Ao usar este aplicativo, você concorda que a disponibilização ou destribuição deste aplicativo a outros não é permitida, bem como a sua venda."
+  "mensagem": "Teste de mensagem vindo do Github."
+}
